@@ -43,6 +43,7 @@ const texts = [
     " * FROM *",
     "BẠN DÀ CỦA BẠN DÀ",
     "#BOCHINDU 🙌 #BOCHINNAO",
+    "~~ 01/02/2023 ~~",
     "#MAIIUBANDA ❤",
 ];
 
