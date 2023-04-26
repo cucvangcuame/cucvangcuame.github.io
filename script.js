@@ -72,7 +72,7 @@ const texts = [
     "~ MPH ~",
     "~ TO ~",
     "~ MNTY ~",
-    "~~ 26/04/2023 ~~",
+    "~~ 25/04/2023 ~~",
     "#MEOMEO ❤",
     "#MAIIUM ❤",
     "#HAPPY BIRTHDAY ❤",
